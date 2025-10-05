@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+*.log      # ignore all log files
+*.tmp      # ignore all temporary files
+*.bak      # ignore all backup files
+*.env      # ignore any .env file

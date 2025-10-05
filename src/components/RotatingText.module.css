@@ -1,0 +1,11 @@
+/* components/RotatingText.module.css */
+.rotatingText {
+  display: inline-block;
+  min-width: 150px; /* Prevents layout shift */
+  color: #007bff; /* Customize color */
+  transition: opacity 0.3s ease; /* Smooth fade */
+}
+
+.fade {
+  opacity: 0; /* Fade out during word change */
+}
