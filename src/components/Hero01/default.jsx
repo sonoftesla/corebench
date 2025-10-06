@@ -31,13 +31,8 @@ const Hero01 = () => {
   <Button size="lg" className="rounded-full text-base">
     Join Our Early Beta  <ArrowUpRight className="size-5" />
   </Button>
-  <Button
-    variant="outline"
-    size="lg"
-    className="rounded-full text-base shadow-none"
-    asChild>
-    <a href="mailto:hello@corebench.net">Email Us</a>
-  </Button>
+  <p>Email us:<a href="mailto:hello@corebench.net">hello@corebench.net</a></p>
+
 </div>
       </div>
     </div>
