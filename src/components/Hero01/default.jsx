@@ -34,7 +34,7 @@ const Hero01 = () => {
   className="rounded-full text-base flex items-center"
   asChild
 >
-  <a href="https://boulder-peanut-b99.notion.site/285aec721061814d8598e01cd2ae5c21?pvs=105" target="_blank" rel="noopener noreferrer">
+  <a href="https://form.typeform.com/to/pkEawRvU" target="_blank" rel="noopener noreferrer">
     Join Our Early Beta
     <ArrowUpRight className="size-5 ml-2" />
   </a>
